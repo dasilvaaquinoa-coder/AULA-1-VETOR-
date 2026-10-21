@@ -25,8 +25,7 @@ outra estrutura com comando FOR para ler os dados e imprimir os valores na ordem
 a que for inseridos dentro do vetor.
 
 6) Desenvolva um algoritmo em linguagem de programação C, que pergunte a quantidade
-de valores a serem calculados. Leia os valores do tipo Inteiro com comando FOR. Crie mais
-
+de valores a serem calculados. Leia os valores do tipo Inteiro com comando FOR.Crie mais
 2 vetores, sendo um vetor denominado “int par[x]” e o outro “int impar[x]” com o mesmo
 tamanho do primeiro vetor informado pelo usuário. Após crie outra estrutura com comando
 FOR para ler os dados a ser inseridos pelo usuário. Em uma nova estrutura FOR, percorra
