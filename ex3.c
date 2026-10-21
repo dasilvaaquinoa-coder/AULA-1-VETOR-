@@ -19,8 +19,6 @@ int main(){
 
         soma = quantidade[1];
     }
-
      return 0;
-     
 
 }
