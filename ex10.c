@@ -17,6 +17,15 @@ int main (){
      scanf("%d" &maximo);
 
      printf("qual e o valor final do intervalo minimo?");
-     scanf("%d" , &maximo); 
+     scanf("%d" , &minimo); 
+
+     printf("numeros sorteados entre %d e %d , maximo , minimo");
+       
      
+     for(i= 0; i<quantidade de numeros; i++){
+          int numero sorteado= rand() % (maximo - minimo + 1) + minimo;    
+          printf("numero %d: %d\n" , i +1 , numero sorteado);
+
+     }   return 0;
+
 }
